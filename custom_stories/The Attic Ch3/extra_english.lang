@@ -1,0 +1,81 @@
+<LANGUAGE>
+    <RESOURCES>
+	</RESOURCES>
+	
+		<CATEGORY Name="CustomStoryMain">
+		<Entry Name="Description">Derrick baso ilunetik korrika ari da. Herrixkan ez zen inor bizirik, denak erailak ziren. Derrick beranduegi heldu zen. Euria hasi zen, eta Derrick zoratzen hasia zen jada. Zorabiatuta lurrera erori zen, argiontzia eskuetatik erortzen zitzaion bitartean. Derrick-ek aterperen bat aurkitu beharko du, etxera bueltatu, eta bere aitaren ekintza maltzurrak gelditu. Baina, izaki zitalak zelatari dabiltza. Etxera bidea ez da samurra izango, munstroz beterik dago eta, beraz, Derrick kontu handiz ibili beharko da, mustroek aurkitu eta hil ez dezaten...</Entry>
+		</CATEGORY>
+		
+		<CATEGORY Name="Endcredits">
+        <Entry Name="Credittext">The Attic: Hirugarren atala [br][br][br]- To play each chapter all built into one, play "The Attic - Full"[br](OUT NOW)[br][br][br]Made by:[br]JetlinerX (Scripting/Mapping)[br]Seth1466 (Mapping)[br][br][br]Special Thanks To:[br]ChaoticMonki (Cry)[br]GamesandStuffs[br]JenniferOrange[br]Kyle[br]CinnamonToastKen[br]Frictional Games[br]Whumbow[br]Timmy[br]Frictional Games Forums[br][br][br]Skyboxes By:[br]CGTextures.com[br][br][br]Music:[br]Night Mist - Adrian von Ziegler[br][br][br]The Following Custom Story is Split Into Chapters.  You just played:[br]Chapter 3[br]This was the final chapter.  Please play all the chapters without gaps in "The Attic - Full"[br][br][br]A NOTE FROM THE DEVELOPERS:[br][br]JetlinerX:[br] Dear all-[br]Thank you so much for making our first custom story a success.  Seth and I really enjoyed most of it, and we are shocked to see it turn out as such a big hit.  I personally, will no longer be continuing with Amnesia, however, I will be teaching Seth the basics of scripting, as he does with to carry on with this engine.  I will be working the Source engine (Half-Life2 Engine) and the CryEngine (Crysis2 Engine) to make a full length horror mod.  Keep an eye out for those, and all progress will be kept up to date on my website at www.element67films.com, and my YouTube channel: JetlinerXPilotXFSX.  Thanks again everyone, and now, a few words from Seth.[br][br][br]Seth:[br]I can't say how much I love you people. You helped and supported us all the way through this. If we missed a deadline, we apologized for it but all you guys said was "Take your time!" I appriciate all you did to make this custom story a success. Thank you all! (Keep an eye out for my next custom stories! :D)[br][br][br][br][br][br][br] Thank you for Playing![br]-Seth1466 and JetlinerX</Entry>
+		</CATEGORY>
+	
+	    <CATEGORY Name="Journal">
+		<Entry Name="Note_KeyNote_Text">Jainkoarren! Ezin naiz gehiago hemen geratu. Ellis-ek azken bi hilabetetan ez dit laudanorik bidali, eta bukatzen ari zait. Oso gaixo nago, eta edabe hau edaten dudan bakoitzean, gauza gehiago ahazten ditut. Laudanoak amnesia eragiteko gaitasun handiak ditu. [br] [br] Ondo da... pentsa dezadan. Zerbait erraza ea... Soto hontako kobazuloen ondoren dagoen atea itxi nuen. Giltza ezkutatu nuen... baina non? Non gorde nuen? Azken laudanoak han atzean daude, oroitu behar naiz... non dago giltz madarikatu hori!</Entry>
+		<Entry Name="Note_KeyNote_Name">Sarrera pertsonala #51</Entry>
+		<Entry Name="Note_suicidenote_Text">Batzuetan alde egin behar da, norbait zure atzetik datorrela jatikeko bada ere. Zaila da "zer dago txarto" galderari erantzutea ezer ondo ez doanean. Nekatuta nago saiatzeaz, nazkatuta negar egiteaz, aurpegian irrifarrea badut ere, barrutik hiltzen nago. Baliteke egunen batean ondo egotea.. Hori da behar dudan guztia. Berdin zait zelan, ondo egotea besterik ez dut behar. Gazteagoa nintzenean, negarra zen erantzun bakarra. Orain, zaharra naizela, negarra da konponbide bakarra. Suposatzen dut, puntu jakin batetik aurrera saiatzeari uko egin behar dela, min egiten duelako gehiago eusteak. Bizitzez nekatuta eta hiltzeaz izututa, orain banoa, agurtu gabe. Barrezka nagoelak ez du esan nahi pozik nagoenik. Ordua heldu da eta banoa. Leku hobe batera, oso urrun. Ikusten duzuen moduan, maite zaituztet. Orain da momentua, librea naiz eta. [br] [br] [br] - Brent Farwell-ek sinatuta</Entry>
+		<Entry Name="Note_suicidenote_Name">Nire borroka</Entry>
+		<Entry Name="Note_StudyNote_Text">Ez dira hildakoak, ezta gaixoak ere, ez dut sekula holakorik ikusi. Jainkoaren aingeruak ikusi ditut, haragi bihurtuak, Satanasen deabruak, bizirik. Deabruak etorri dira, guk ezer egin gabe, Jainkoak bere haserrea piztu du, horregatik, korrika ihes egin behar dugu. Bukaera hurbil dago, eta orain nire momentua da, hau irakurtzen baduzu, ez zara atzean geratuko. Etorri nire bila, deabruok, infernutik deituak, askatu zuon indarra nigan, ez dut ezta garrasi bat ere egingo. Prest nago, baina jakin ezazu... nire barnean aingeruak daudela, eta ez duzuela lortuko. Bukaera hurbil dago...</Entry>
+		<Entry Name="Note_StudyNote_Name">Ikerketa #514: Deabruak.</Entry>
+		<Entry Name="Note_StoryNote_Text">Ellis Jackson has made a potion called Laudanum.  He had many people test it, and the serum had no effects at first, but slowly and slowly people became very ill, and unfortunately fell into a harsh coma after a week of the initial test.  Once they fell limp, it took them about 2 weeks to regain consiousness, and when they did... they struggled to form simple sentences.  Its almost as if they lost control of their muscles in their face.  Not long after that, they started to struggle to form simple words!  However, I must say the most disturbing part of the whole transformation, existed in their physical appearance...  their skin. Their skin had rotted over time, and was practically non exsistant when they woke up... which is something I wish they never did.  When they wake up, they immediately become instinctly violent to the nearest living being.  We did many tests with subjects, and no matter if it was a small animal, or a large black bear, they attacked it, and always won.  They litterally riped their victem limb from limb...[br][br][br][br]-On the contrary- Ellis' wife Libby Jackson saw the effects of Ellis' potion, and was heartbroken that he would do this.  So, she invented a new serum called "Sanity Potions" to hopefully restore these freaks into some what of human beings again.  Libby unfortunatley vanished not long after the town seeing her potion was working.  On a walk through the woods, Libby did not return, but was found in a shallow gully with at least 14 violent stab wounds by what appears to be a wavy blade, one similar to a knife Ellis always kept on his work belt.  Ellis seemed unchanged by his wifes' death, and continued his work.  Libby's murderer is still unknown at the present time...</Entry>
+		<Entry Name="Note_StoryNote_Name">Familia burruka basatia botere bila</Entry>
+		<Entry Name="Note_note_ending1_Text">Kaka zaharra! Nire zerbitzariek semea ez dutela antzeman esan didate. Ez dut nire ondoan izaterik nahi. Zerbitzariek kontatu didaten azken albisteek arduratuta naukate. Derrick nire bila dabil... ni geldiarazteko asmoz. Nire semea.... Baina nire bila badator, nahitaez hilko dut. Benetan izutzen nau nire semea hiltzeak, baina beharrezkoa bada, horrela izan dadila. Nire ikerkuntza aurreratuegi dago nire semeagatik uzteko, lan gehiegi egin dut. Orduan Derrick, ohar hau irakurtzen bazaude, ez sartu atikoan... edo zu hiltzera behartuta egongo naiz. Barkatu ene semea. [br] [br] [br] Barka iezadazu arren.</Entry>
+		<Entry Name="Note_note_ending1_Name">Aitaren egunkaria: 253. sarrera</Entry>
+		<Entry Name="Note_note_envelope_1_Text">Ongi etorriak ene tenplura. Mesedez, jarraitu nire aholkua. Jarraitu perretxiko orlegiak zutabe apurtuak dauden lekura. Zure gidariak izango dira. Dena dela, kontuz, gauza zitalak egiten hari dira ene tenpluan. Kontuz Derrick...</Entry>
+		<Entry Name="Note_note_envelope_1_Name">Ohar arroa</Entry>
+		</CATEGORY>
+		
+	    <CATEGORY Name ="Inventory">
+		<Entry Name="ItemName_key_cellardoor1">Altzairuzko Giltza</Entry>  
+		<Entry Name="ItemDesc_key_cellardoor1">Bodegan sakonago sartzeko Giltza.</Entry>
+		<Entry Name="ItemName_key_StangeKey">Giltz ezezaguna</Entry>
+		<Entry Name="ItemDesc_key_StangeKey">Gakoak marradura du, irakurri dezaken bakarra zera da: [br] [br] Zer... Nori... irabazi beharko nioke..., ... sakonerak... Bere ...</Entry>
+		<Entry Name="ItemName_secret_key1">Giltz sekretua</Entry>
+		<Entry Name="ItemDesc_secret_key1">Giltz sekretua! (Iradokizuna: Atea hurrengo mapan dago!)</Entry>
+		<Entry Name="ItemName_key_celler_door_outside">Altzairuzko Giltza</Entry>
+		<Entry Name="ItemDesc_key_celler_door_outside">Bodegan sakonago sartzeko Giltza.</Entry>
+		<Entry Name="ItemName_key_home_door1">Hirugarren solaituko Giltza</Entry>
+		<Entry Name="ItemDesc_key_home_door1">Hirugarren solairura daraman eskailera-begiko Giltza</Entry>
+		<Entry Name="ItemName_key_home1">Bigarren solairuko Giltza</Entry>
+		<Entry Name="ItemDesc_key_home1">Bigarren solairura daraman Giltza.</Entry>
+		<Entry Name="ItemName_knife_main1">Zorroztutako daga</Entry>
+		<Entry Name="ItemDesc_knife_main1">Haragia mozteko zorroztutako daga.</Entry>
+		<Entry Name="ItemName_key_castle_door1">Giltz txikia</Entry>
+		<Entry Name="ItemDesc_key_castle_door1">Giltz txikia.</Entry>
+		
+		</CATEGORY>
+		
+		<CATEGORY Name="Messages">
+		<Entry Name="Crouch">Ez dut uste zubi honek nire pisuarekin ahal duenik. Makurtuta, azkar ibiliz, ea horrela irautem duen...</Entry>
+		<Entry Name="Rock">Mmm... Beharbada erabil nezake harri hau egurrak apurtu eta sartu ahal izateko...</Entry>
+		<Entry Name="ending_text1">Derrick ... urrunegi joan zara. Ezin zaitut jarraitzen utzi. Barkatu ene seme, baina nire ikerketa oztopatu duzu, eta onartezina da. Barka iezadazu arren...</Entry>
+		</CATEGORY>
+		
+		<CATEGORY Name="Levels">
+		<Entry Name="Unknown House">Etxe arraroa</Entry>
+		<Entry Name="celler_hub1">Tanbutxo arraroa</Entry>
+		<Entry Name="level_celler1">Sotoan barrena</Entry>
+		<Entry Name="level_celler2">Sotoan barrena</Entry>
+		<Entry Name="level_outside1">Kanpoaldea</Entry>
+		<Entry Name="level_dungeon1">Tenplu zaharra</Entry>
+		<Entry Name="level_dungeon2">Gaztelu zaharra</Entry>
+		<Entry Name="level_courtyard1">Patioa</Entry>
+		<Entry Name="secret_level_door1">???</Entry>
+		<Entry Name="home_level_door1">Etxea...</Entry>
+		<Entry Name="home_level_door2">Bigarren solairua</Entry>
+		<Entry Name="atticdoor">Eskiralak</Entry>
+		<Entry Name="thirdfloor">Hirugarren solairua</Entry>
+		<Entry Name="level_celler_1">Sotoa</Entry>
+		<Entry Name="stairwelldoor">Eskilara-begia</Entry>
+		<Entry Name="secondfloordoor">Bigarren solairua</Entry>
+		<Entry Name="firstfloordoor">Lehen solairua</Entry>
+		<Entry Name="basementdoor">Biltegi nagusia</Entry>
+		
+		</CATEGORY>
+		
+		<CATEGORY Name="DeathHints">
+		<Entry Name="StayLow">Makurtuta egon behar zara...</Entry>
+		<Entry Name="DontSwim">Ez saiatu igeriketan...</Entry>
+		<Entry Name="DefaultDeath">Hil zara...</Entry>
+		</CATEGORY>
+</LANGUAGE>
