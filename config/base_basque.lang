@@ -348,7 +348,7 @@
     <Entry Name="InventoryTooltip">Inbentarioaren pantalla irudikatzen du.</Entry>
     <Entry Name="JournalTooltip">Egunkariaren pantalla irudikatzen du.</Entry>
     <Entry Name="JumpTooltip">Jauzi egin.</Entry>
-    <Entry Name="LanternTooltip">Farola altsatu edo askatzen du.</Entry>
+    <Entry Name="LanternTooltip">Farola altxatu edo askatzen du.</Entry>
     <Entry Name="LeanLeftTooltip">Burua ezkerreko aldera okertzen du, erabilgarria izkinetatik ikusteko.</Entry>
     <Entry Name="LeanRightTooltip">Burua eskuineko aldera okertzen du, erabilgarria izkinetatik ikusteko.</Entry>
     <Entry Name="LeftTooltip">Ezkerrera mugitu.</Entry>
@@ -417,7 +417,7 @@
     <Entry Name="InteractChest03_NoCoins">Ez dauzkazu behar beste supizteko ardagai.</Entry>
     <Entry Name="InteractChest03_Question">Irekitzea?</Entry>
     <Entry Name="InteractChest03">Egungo taleroak:</Entry>
-    <Entry Name="DeathPress">Pultsa botoi bat jarraitzeko...</Entry>
+    <Entry Name="DeathPress">Sakatu botoi bat jarraitzeko...</Entry>
     <Entry Name="NoMoreTinderboxes">Ez da supizteko ardagairik geratzen.</Entry>
     <Entry Name="OilBarrel_Empty">Kupelean ez dago oliorik.</Entry>
     <Entry Name="OilBarrel_LanternFull">Farola beteta dago.</Entry>
@@ -460,9 +460,9 @@
     <Entry Name="DefaultDeath">Jarraitu behar duzu...</Entry>
     <Entry Name="HintHint">Iradokizunak menuaren aukeretan desaktibatu daitezke. Menura sartzeko, sakatu $ButExit.</Entry>
     <Entry Name="EntityWheel">$ButInteract sakatuta mantendu eta egin zazu mugimendu zirkularra eskumako joystick-arekin gurpila biratzeko. Gurpilak norantza berberean biratuko du.</Entry>
-    <Entry Name="EntityGrab01">Objetu bat hartuta daukazula, $ButAttack pultsa jaurtitzeko. $ButRotate pultsatuta, mugitu sagua objetua biratzeko.</Entry>
+    <Entry Name="EntityGrab01">Objetu bat hartuta daukazula, $ButAttack sakatu jaurtitzeko. $ButRotate sakatuta, mugitu sagua objetua biratzeko.</Entry>
     <Entry Name="EntityGrab02">$ButScrollDown eta $ButScrollUp botoiak erabili objetua hurbiltzeko edo urruntzeko</Entry>
-    <Entry Name="EntityPush">$ButInteract pultsatuta mantendu ezkerreko joystick-a mugitzen duzun bitartean bultzatzeko. $ButAttack erabili begiratzen duzun norantzan indarrez bultzatzeko.</Entry>
+    <Entry Name="EntityPush">$ButInteract sakatuta mantendu ezkerreko joystick-a mugitzen duzun bitartean bultzatzeko. $ButAttack erabili begiratzen duzun norantzan indarrez bultzatzeko.</Entry>
     <Entry Name="EntitySlide">Mugi ezazu ezkerreko joystick-a $ButInteract sakatzen duzun bitartean objetua mugitzeko.</Entry>
     <Entry Name="EntitySwingDoor">Mantendu $ButInteract sakatuta eta sagua mugitu atea mugitzeko. $ButAttack sakatu atea batez ireki edo ixteko, begiratzen duzun norantzaren arabera.</Entry>
     <Entry Name="EntityLever">Sakatu $ButInteract eta mugitu sagua palanka mugitzeko nahiaren norantzan.</Entry>
