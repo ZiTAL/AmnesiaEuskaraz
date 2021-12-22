@@ -672,7 +672,7 @@
     <Entry Name="PreviewOver"></Entry>
   </CATEGORY>
   <CATEGORY Name="Ch01Level02">
-    <Entry Name="LevelDoorLocked">Itxita dago eta ez da giltzarik gabe irekiko.</Entry>
+    <Entry Name="LevelDoorLocked">Itxita dago, giltza behar da irekitzeko.</Entry>
     <Entry Name="InteractSlime">Gogorra eta xaflakorra da. Ezin da eskuekin edo tresnekin apurtu.</Entry>
     <Entry Name="InteractDoorHaveKey">Erabili giltza atean irekitzeko.</Entry>
     <Entry Name="Sign_Laboratory">"Laborategia"</Entry>
