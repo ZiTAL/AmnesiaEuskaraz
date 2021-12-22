@@ -55,7 +55,7 @@
     <Entry Name="NormalModeDescription">Jokoa horrela jolasteko diseinatu zen.</Entry>
     <Entry Name="HardModeStartNewGame">Modu zailean hasi nahi al duzu partida?</Entry>
     <Entry Name="HardModeSaveCost">Partida gordetzeko # supizteko ardagaiekin ordaindu beharko duzu,</Entry>
-    <Entry Name="HardModeTinderboxInInventory"># geratzen zaizkizu inbentarioan.</Entry>
+    <Entry Name="HardModeTinderboxInInventory"># geratzen zaizu / zaizkizu inbentarioan.</Entry>
     <Entry Name="HardModeSavePopup">Gordetzeak supizteko # ardagai kenduko dizkizu inbentariotik</Entry>
   </CATEGORY>
   <CATEGORY Name="OptionsMenu">
